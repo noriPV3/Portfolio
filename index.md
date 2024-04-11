@@ -24,7 +24,7 @@
 |--|--|
 |<img src = './Picture/comic1.jpg' alt='' width = '300'>|<img src = './Picture/comic2.jpg' alt='' width = '300'>|
 
-<details><summary>main.dart</summary>
+<!-- <details><summary>main.dart</summary> -->
 
 ```Dart
 
