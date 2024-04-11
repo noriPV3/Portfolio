@@ -24,7 +24,7 @@
 |--|--|
 |<img src = './Picture/comic1.jpg' alt='' width = '300'>|<img src = './Picture/comic2.jpg' alt='' width = '300'>|
 
-<!-- <details><summary>main.dart</summary> -->
+<details><summary>main.dart</summary>
 
 ```Dart
 
@@ -555,7 +555,7 @@ class _FirstPageState extends State<FirstPage> {
 |--|--|
 |<img src = './Picture/avoid_ball2.jpg' alt='' width = '300'>|<img src = './Picture/avoid_ball1.jpg' alt='' width = '300'>|
 
-<details><summary>main.dart</summary>
+<!-- <details><summary>main.dart</summary> -->
 
 ```Dart
 import 'package:avoid_balls/model.dart';
@@ -773,9 +773,9 @@ class _GamePageState extends State<GamePage> {
 
 ```
 
-</details>
+<!-- </details> -->
 
-<details><summary>pubspec.yaml</summary>
+<!-- <details><summary>pubspec.yaml</summary> -->
 
 ```yaml
 name: avoid_balls
@@ -818,7 +818,7 @@ flutter_icons:
 
 ```
 
-</details>
+<!-- </details> -->
 
 ---
 
@@ -831,7 +831,7 @@ flutter_icons:
 |--|--|
 |<img src = './Picture/grow_story1.png' alt='' width = '300'>|<img src = './Picture/grow_story2.png' alt='' width = '300'>|
 
-<details><summary>main.dart</summary>
+<!-- <details><summary>main.dart</summary> -->
 
 ```Dart
 import 'package:flutter/material.dart';
@@ -871,9 +871,9 @@ class MyApp extends StatelessWidget {
 
 ```
 
-</details>
+<!-- </details> -->
 
-<details><summary>test_map.dart</summary>
+<!-- <details><summary>test_map.dart</summary> -->
 
 ```Dart
 import 'package:flutter/material.dart';
@@ -980,9 +980,9 @@ class _DungeonMap01State extends State<DungeonMap01> {
 
 ```
 
-</details>
+<!-- </details> -->
 
-<details><summary>pubspec.yaml</summary>
+<!-- <details><summary>pubspec.yaml</summary> -->
 
 ```yaml
 name: grow_story
@@ -1017,6 +1017,6 @@ flutter:
 
 ```
 
-</details>
+<!-- </details> -->
 
 ---
