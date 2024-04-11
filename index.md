@@ -24,9 +24,10 @@
 |--|--|
 |<img src = './Picture/comic1.jpg' alt='' width = '300'>|<img src = './Picture/comic2.jpg' alt='' width = '300'>|
 
-<details><summary>main.dart</summary>
+<!-- <details><summary>main.dart</summary> -->
 
 ```Dart
+
 import 'dart:convert';
 import 'dart:math';
 import './size_config.dart';
@@ -540,7 +541,7 @@ class _FirstPageState extends State<FirstPage> {
 
 ```
 
-</details>
+<!-- </details> -->
 
 ---
 
